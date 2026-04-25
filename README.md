@@ -1,8 +1,8 @@
-Data Analytics | Python | SQL | Machine Learning | Math Educator expanding into Data Analytics and Data Science
+Data Analytics | Python | SQL | Machine Learning | Mathematics educator leveraging domain expertise in analytics and machine learning.
 
 - 👋 Hi, I’m Sean Harvey
 - 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning Artificial Intelligence at The University of the Cumberlands.
+- 🌱 I’m currently building analytics and machine learning projects while completing an M.S. in Artificial Intelligence.
 - 📫 How to reach me SeanMartinHarvey@gmail.com
 
 
