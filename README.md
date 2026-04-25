@@ -8,7 +8,7 @@ Data Analytics | Python | SQL | Machine Learning | Educator applying analytics t
 
 • Currently completing an M.S. in Artificial Intelligence at the University of the Cumberlands
 
-• Interested in analytics roles in education, finance, healthcare, and operations
+• Building analytics skills and projects with interests in education, finance, healthcare, and operations.
 
 📫 Contact: SeanMartinHarvey@gmail.com
 
